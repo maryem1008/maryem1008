@@ -4,19 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=19&duration=2000&pause=500&color=C66B96&center=true&vCenter=true&width=600&lines=building+intelligent+things;AI+%7C+computer+vision+%7C+data;dream+big%2C+code+beautifully" alt="Animated typing text"/>
 
-<br/><br/>
-
-<a href="https://github.com/maryem1008">
-<img src="https://img.shields.io/badge/GitHub-maryem1008-F4BBD0?style=flat-square&labelColor=FFF0F5" alt="GitHub"/>
-</a>
-<a href="https://www.instagram.com/maryem.chaiieb/">
-<img src="https://img.shields.io/badge/Instagram-connect-F4BBD0?style=flat-square&labelColor=FFF0F5" alt="Instagram"/>
-</a>
-<a href="https://www.facebook.com/youmamimi1008">
-<img src="https://img.shields.io/badge/Facebook-connect-F4BBD0?style=flat-square&labelColor=FFF0F5" alt="Facebook"/>
-</a>
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=F4BBD0&height=3&section=header" width="75%" alt="Pink divider"/>
 
