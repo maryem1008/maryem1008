@@ -10,7 +10,6 @@
 
 Telecommunications Engineering student at ENIT, Tunisia.
 
-**Data Science for Intelligent Communications**
 
 AI · Computer Vision · Data Engineering · Intelligent Systems
 
