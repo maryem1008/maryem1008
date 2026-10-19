@@ -6,6 +6,7 @@
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=F4BBD0&height=3&section=header" width="75%" alt="Pink divider"/>
+**Data Science for Intelligent Communications**
 
 
 Telecommunications Engineering student at ENIT, Tunisia.
