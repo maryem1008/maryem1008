@@ -38,9 +38,7 @@ AI · Computer Vision · Data Engineering · Intelligent Systems
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=F4BBD0&height=3&section=header" width="75%" alt="Pink divider"/>
 
-### MY CONTRIBUTIONS
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=maryem1008&bg_color=FFF0F5&color=A85D80&line=E9A9C5&point=C66B96&area=true&area_color=F8D7E5&hide_border=true&custom_title=My%20Coding%20Journey" alt="GitHub contribution activity chart"/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=maryem1008&show_icons=true&hide_border=true&bg_color=FFF0F5&title_color=C66B96&text_color=9E6C84&icon_color=E9A9C5&include_all_commits=true" alt="GitHub stats"/>
 
