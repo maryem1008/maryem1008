@@ -30,63 +30,6 @@ AI · Computer Vision · Data Engineering · Intelligent Systems
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=F4BBD0&height=3&section=header" width="75%" alt="Pink divider"/>
 
-### FEATURED PROJECTS
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-**BlindAid**
-
-<a href="https://github.com/maryem1008/blindaid">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=F8C8DC&height=90&text=BlindAid&fontSize=28&fontColor=A85D80" alt="BlindAid banner"/>
-</a>
-
-</div>
-
-Assistive Android app for camera-based object detection and spoken environmental descriptions.
-
-`Android` `YOLOv8` `CameraX` `TensorFlow Lite`
-
-<div align="center">
-
-[View project](https://github.com/maryem1008/blindaid)
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-**Telecom Alarm Analytics**
-
-<a href="https://github.com/maryem1008/telecom-alarm-analytics">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=F8C8DC&height=90&text=Network%20Analytics&fontSize=22&fontColor=A85D80" alt="Telecom analytics banner"/>
-</a>
-
-</div>
-
-Simulated real-time telecom alarm monitoring, incident analytics, anomaly detection, and controlled remediation workflows.
-
-`Python` `PySpark` `PostgreSQL` `Streamlit`
-
-<div align="center">
-
-[View project](https://github.com/maryem1008/telecom-alarm-analytics)
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=F4BBD0&height=3&section=header" width="75%" alt="Pink divider"/>
 
 ### TECH STACK
