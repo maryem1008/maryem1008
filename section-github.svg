@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="112" viewBox="0 0 1200 112" role="img" aria-label="GitHub activity">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#F9D6E4"/><stop offset=".52" stop-color="#FFF2F7"/><stop offset="1" stop-color="#EAE0F8"/></linearGradient></defs>
+<rect x="1" y="1" width="1198" height="110" rx="20" fill="url(#g)" stroke="#E9C7D9"/>
+<circle cx="55" cy="56" r="27" fill="#FFFFFF" opacity=".78"/>
+<text x="55" y="65" font-size="29" text-anchor="middle" fill="#B76E95" font-family="Georgia, serif">♡</text>
+<text x="100" y="51" font-size="29" font-weight="bold" fill="#8E5574" font-family="Georgia, serif">GitHub activity</text>
+<text x="101" y="78" font-size="15" letter-spacing="1.3" fill="#A97996" font-family="Arial, sans-serif">LITTLE STEPS, CONSISTENT GROWTH</text>
+<path d="M1030 32c-14-18-34 0 0 25 34-25 14-43 0-25z" fill="#D8BCEB" opacity=".9"/>
+<path d="M1080 66c-10-13-25 0 0 19 25-19 10-32 0-19z" fill="#E8AFC9" opacity=".9"/>
+<circle cx="1130" cy="35" r="4" fill="#C58AB0"/><circle cx="1150" cy="76" r="3" fill="#BDA3E4"/>
+</svg>
