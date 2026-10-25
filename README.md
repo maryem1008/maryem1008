@@ -6,15 +6,6 @@
 
 <br/><br/>
 
-<a href="https://github.com/maryem1008">
-<img src="https://img.shields.io/badge/GitHub-maryem1008-F4BBD0?style=flat-square&labelColor=FFF0F5" alt="GitHub"/>
-</a>
-<a href="https://www.instagram.com/maryem.chaiieb/">
-<img src="https://img.shields.io/badge/Instagram-connect-F4BBD0?style=flat-square&labelColor=FFF0F5" alt="Instagram"/>
-</a>
-<a href="https://www.facebook.com/youmamimi1008">
-<img src="https://img.shields.io/badge/Facebook-connect-F4BBD0?style=flat-square&labelColor=FFF0F5" alt="Facebook"/>
-</a>
 
 <br/><br/>
 
