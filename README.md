@@ -30,7 +30,6 @@ AI · Computer Vision · Data Engineering · Intelligent Systems
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=F4BBD0&height=3&section=header" width="75%" alt="Pink divider"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F4BBD0&height=3&section=header" width="75%" alt="Pink divider"/>
 
 ### TECH STACK
 
