@@ -22,7 +22,7 @@
 
 ### ABOUT ME
 
-Telecommunications Engineering student at ENIT, Tunisia.
+Telecommunications engineering student at ENIT, Tunisia.
 
 **Data Science for Intelligent Communications**
 
