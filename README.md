@@ -11,7 +11,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=F4BBD0&height=3&section=header" width="75%" alt="Pink divider"/>
 
-### ABOUT ME
 
 Telecommunications engineering student at ENIT, Tunisia.
 
