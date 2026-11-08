@@ -31,8 +31,6 @@ AI · Computer Vision · Data Engineering · Intelligent Systems
 
 
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=maryem1008&show_icons=true&hide_border=true&bg_color=FFF0F5&title_color=C66B96&text_color=9E6C84&icon_color=E9A9C5&include_all_commits=true" alt="GitHub stats"/>
-
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryem1008&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=C66B96&text_color=9E6C84&langs_count=6" alt="Top languages"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=F4BBD0&height=3&section=header" width="75%" alt="Pink divider"/>
